@@ -24,11 +24,11 @@ export default function Contact() {
             </a>
             <p style={styles.detail}>📍 Chennai, India</p>
             <p style={styles.detail}><strong style={{ color: '#e85d04' }}>Project:</strong> Food Recipes Website</p>
-            <a href="https://github.com/MohammedRabbani-Dev" target="_blank" rel="noreferrer" style={styles.link}>
-              🐙 github.com/MohammedRabbani-Dev
+             <a href="https://github.com/shahilparvez/" target="_blank" rel="noreferrer" style={styles.link}>
+              🐙 github.com/shahilparvez/
             </a>
-            <a href="https://www.linkedin.com/in/mohammed-rabbani07" target="_blank" rel="noreferrer" style={styles.link}>
-              💼 linkedin.com/in/mohammed-rabbani07
+            <a href="https://www.linkedin.com/in/shahil-parvez-426463374/" target="_blank" rel="noreferrer" style={styles.link}>
+              💼 linkedin.com/in/shahil-parvez-426463374/
             </a>
           </div>
 
